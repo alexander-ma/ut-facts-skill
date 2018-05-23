@@ -1,0 +1,76 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "This skill gives facts about The University of Texas.",
+          "examplePhrases": [
+            "Alexa, open burnt orange cow."
+          ],
+          "name": "UT Fact Skill",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/dcad9e5a241a4561abb566eaa43bccdf/APP_ICON?versionId=YDigPzwD4JYJK2bi8nwzKoiDsvOgYKOn&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=rlvvRrPjaWJzJA2uA%2BF3%2F6TSi68%3D",
+          "description": "This is a tutorial skill for getting started with the ASK SDK. This skill gives people interested in The University of Texas at Austin facts and information about the college or university.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9bbcfb35c4c2477a8df7a08f27d3a6af/APP_ICON_LARGE?versionId=ylKRFddFX3Zm56AmPFElNg1v5S8kBYAt&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=JYKnUDRHitcPr5jE5xrWdZXxy%2Bs%3D"
+        },
+        "en-CA": {
+          "summary": "This skill gives facts about The University of Texas.",
+          "examplePhrases": [
+            "Alexa, open burnt orange cow."
+          ],
+          "name": "UT Fact Skill",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/dcad9e5a241a4561abb566eaa43bccdf/APP_ICON?versionId=YDigPzwD4JYJK2bi8nwzKoiDsvOgYKOn&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=rlvvRrPjaWJzJA2uA%2BF3%2F6TSi68%3D",
+          "description": "This is a tutorial skill for getting started with the ASK SDK. This skill gives people interested in The University of Texas at Austin facts and information about the college or university.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9bbcfb35c4c2477a8df7a08f27d3a6af/APP_ICON_LARGE?versionId=ylKRFddFX3Zm56AmPFElNg1v5S8kBYAt&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=JYKnUDRHitcPr5jE5xrWdZXxy%2Bs%3D"
+        },
+        "en-IN": {
+          "summary": "This skill gives facts about The University of Texas.",
+          "examplePhrases": [
+            "Alexa, open burnt orange cow."
+          ],
+          "name": "UT Fact Skill",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/dcad9e5a241a4561abb566eaa43bccdf/APP_ICON?versionId=YDigPzwD4JYJK2bi8nwzKoiDsvOgYKOn&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=rlvvRrPjaWJzJA2uA%2BF3%2F6TSi68%3D",
+          "description": "This is a tutorial skill for getting started with the ASK SDK. This skill gives people interested in The University of Texas at Austin facts and information about the college or university.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9bbcfb35c4c2477a8df7a08f27d3a6af/APP_ICON_LARGE?versionId=ylKRFddFX3Zm56AmPFElNg1v5S8kBYAt&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=JYKnUDRHitcPr5jE5xrWdZXxy%2Bs%3D"
+        },
+        "en-AU": {
+          "summary": "This skill gives facts about The University of Texas.",
+          "examplePhrases": [
+            "Alexa, open burnt orange cow."
+          ],
+          "name": "UT Fact Skill",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/dcad9e5a241a4561abb566eaa43bccdf/APP_ICON?versionId=YDigPzwD4JYJK2bi8nwzKoiDsvOgYKOn&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=rlvvRrPjaWJzJA2uA%2BF3%2F6TSi68%3D",
+          "description": "This is a tutorial skill for getting started with the ASK SDK. This skill gives people interested in The University of Texas at Austin facts and information about the college or university.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9bbcfb35c4c2477a8df7a08f27d3a6af/APP_ICON_LARGE?versionId=ylKRFddFX3Zm56AmPFElNg1v5S8kBYAt&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=JYKnUDRHitcPr5jE5xrWdZXxy%2Bs%3D"
+        },
+        "en-GB": {
+          "summary": "This skill gives facts about The University of Texas.",
+          "examplePhrases": [
+            "Alexa, open burnt orange cow."
+          ],
+          "name": "UT Fact Skill",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/dcad9e5a241a4561abb566eaa43bccdf/APP_ICON?versionId=YDigPzwD4JYJK2bi8nwzKoiDsvOgYKOn&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=rlvvRrPjaWJzJA2uA%2BF3%2F6TSi68%3D",
+          "description": "This is a tutorial skill for getting started with the ASK SDK. This skill gives people interested in The University of Texas at Austin facts and information about the college or university.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9bbcfb35c4c2477a8df7a08f27d3a6af/APP_ICON_LARGE?versionId=ylKRFddFX3Zm56AmPFElNg1v5S8kBYAt&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1527184743&Signature=JYKnUDRHitcPr5jE5xrWdZXxy%2Bs%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "This is based on the Fact Skill Template",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
